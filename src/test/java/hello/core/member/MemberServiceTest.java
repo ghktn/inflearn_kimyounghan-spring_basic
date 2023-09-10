@@ -14,6 +14,7 @@ public class MemberServiceTest {
         AppConfig appConfig = new AppConfig();
         memberService = appConfig.memberService();
     }
+
     @Test
     void join() {
         //given
