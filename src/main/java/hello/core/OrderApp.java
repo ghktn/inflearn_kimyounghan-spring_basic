@@ -22,7 +22,9 @@ public class OrderApp {
 
 //        MemberService memberService = appConfig.memberService();
 //        OrderService orderService = appConfig.orderService();
-
+/**
+ * kkkkk
+ */
 
         Long memberId = 1L;
         Member member = new Member(memberId, "memberA", Grade.VIP);
